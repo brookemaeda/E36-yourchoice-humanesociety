@@ -1,0 +1,23 @@
+footer {
+  background-color: #4a8b2c;
+  color: white;
+}
+.middle {
+  background-image: url("https://www.hawaiianhumane.org/wp-content/uploads/2022/07/HOMEPAGE-BANNERS-1.png");
+  height: 100%;
+  padding-bottom: 450px;
+}
+
+
+.block {
+  background-color: #4a8b2c;
+  position: relative;
+  top: 170px;
+  color: white;
+  width: 600px;
+  height: 325px;
+  text-align: center;
+  font-size: x-large;
+  margin-left: 65%;
+  border-radius: 2%;
+}
